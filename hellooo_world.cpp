@@ -1,9 +1,8 @@
 #include <iostream>
 
 
-using namespace std;
-
 int main()
 {
-cout<< "Hello world! from ideomat75"<<endl;
+std::cout<< "Hello world! from ideomat75"<<endl;
+
 }
