@@ -1,8 +1,7 @@
 #include <iostream>//библиотека
 
-
-int main()
+int
+main()
 {
-std::cout<< "Hello world! from ideomat75"<<endl;
-
+  std::cout << "Hello world! from ideomat75" << endl;
 }
